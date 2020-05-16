@@ -1,0 +1,15 @@
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\MainWindow.g.cs
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\App.g.cs
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble_MarkupCompile.cache
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble_MarkupCompile.lref
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\MainWindow.baml
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.g.resources
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.cache
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Oliver\Documents\ICS4U\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
